@@ -4,3 +4,4 @@ optimizedSD/*
 /latent_diffusion.egg-info/*
 /logs/*
 /models/ldm/stable-diffusion*/*
+/src/*
