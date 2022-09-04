@@ -1,0 +1,6 @@
+outputs/*/*/*.png
+optimizedSD/*
+*.pyc
+/latent_diffusion.egg-info/*
+/logs/*
+/models/ldm/stable-diffusion*/*
